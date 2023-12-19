@@ -1,6 +1,6 @@
-2000.12.23    2000000  "Ivan Ivanovich" 
-  "Dmitriy Dmitrievich"  2001.01.01  100000 
-"Роман Воднев"  1950.04.11   123456789 
- 2020.06.30 "Elon  Mask"     45243 
+2000,12.23    2000;000  "Ivan Ivanovich" 
+  "Dmitriy Dmitrievich"  2001.01..01  100000 
+"Роман Воднев"  1950.04.11  6545 123456789 
+ 2020.06.30 "Elon Mask"    45243 
  98765432  "Marlin Manson"  1960.06.07
- 1951.11.11 6666666 "Mila Yolovich"    
+ 1951.11.11 6666666 "Mila Yolo vich"    
