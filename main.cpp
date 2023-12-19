@@ -2,9 +2,9 @@
 
 int main() {
   std::string filename = "test_data.txt";
-  std::vector<Realty> data = load_data_from_file(filename);
+  std::vector<Realty> data = Load_data_from_file(filename);
   for (Realty line : data) {
-    line.printInfo();
+    line.PrintInfo();
     std::cout << std::endl;
   }
   return 0;

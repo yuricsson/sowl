@@ -1,4 +1,4 @@
-FLAGS = -Wall -Wextra -Werror
+FLAGS = -Wall -Wextra -Werror -std=c++20
 CC = g++ $(FLAGS)
 
 all : main
