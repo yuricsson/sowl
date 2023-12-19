@@ -3,8 +3,8 @@
 int main() {
   std::string filename = "test_data.txt";
   std::vector<Realty> data = load_data_from_file(filename);
-  for (unsigned int i = 0; i < (unsigned int)data.size(); i++) {
-    data[i].printInfo();
+  for (Realty line : data) {
+    line.printInfo();
     std::cout << std::endl;
   }
   return 0;
